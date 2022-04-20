@@ -1,16 +1,17 @@
-# Vortex Discord Bot
+# Vortex, A Discord Bot
 
-# Who is Vortex?
-Vortex was created by the Horizon team (Mainly me and ghostt) as a side project and a custom addition for our Discord server.
-The server itself is closed at the momment without any plans of reopening.
+# About Vortex
+Vortex was initially a closed source bot created to offer services of all kinds to Horizon, a Discord server owned by a friend of mine. That server, however, was shut down on September 7th, 2021 and currently there no plans indicating its reopening any time soon. 
+
+This put Vortex on a hiatus for a few months, but we recently got back at it and decided it would be best to make the most out of it. 
 
 # Features
 **The default set of modules includes but is not limited to:**
 
-* Moderation features (kick/ban/mute/chat cleanup)
-* Music features (YouTube, playlists, queues)
+* Moderation features (kick/ban/mute/chat clean-up)
+* Music features (YouTube, Playlists, queues)
 * Fun commands (8ball, snake, meme)
-* Currency commands (beg, balance, deposit, withdraw etc.) *note this requires some technical knowledge in databases and specifically in MongoDB to set up properly*
+* Currency commands (beg, balance, deposit, withdraw etc.) *Note: this requires some technical knowledge in databases and specifically in MongoDB to set up properly*
 * More miscellaneous utilities
 
 # Installation
@@ -60,9 +61,9 @@ node main.js
 
 # Heroku
 
-Additionally you can deploy it to Heroku.
+Additionally, you can deploy it to Heroku.
 
-I will probably provide a step by step guide to do this some time in the future including setting up the database, ~don't take my word for it though~. For now [this video](https://www.youtube.com/watch?v=VZUulBMKfoY) should help you set up the basics on heroku. *note: I already have the procfile ready for you.*
+I will probably provide a step by step guide on how to do this some time in the future including setting up the database, ~don't take my word for it though~. For now [this video](https://www.youtube.com/watch?v=VZUulBMKfoY) should help you set up the basics on heroku. *Note: I already have the procfile ready for you.*
 
 # License
 Released under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
