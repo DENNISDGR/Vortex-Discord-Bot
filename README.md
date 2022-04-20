@@ -62,7 +62,20 @@ node main.js
 
 Additionally you can deploy it to Heroku.
 
-I will probably provide a step by step guide to do this some time in the future including setting up the database, ~don't take my word for it though~. For now [this video](https://www.youtube.com/watch?v=VZUulBMKfoY) should help you set up the basics on heroku. *note: I already have to procfile ready for you.*
+I will probably provide a step by step guide to do this some time in the future including setting up the database, ~don't take my word for it though~. For now [this video](https://www.youtube.com/watch?v=VZUulBMKfoY) should help you set up the basics on heroku. *note: I already have the procfile ready for you.*
 
 # License
 Released under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+# Finally
+
+### Contribute
+If you have any suggestions or want to contribute to the bot, please do so on the GitHub repo.
+Also, if you have any questions, feel free to ask me on Discord (DENNISDGR#4419).
+
+### Support
+I know that this is only my first project, but if you want to support the development of the bot, you can do so by donating in one of the following ways:
+
+* XMR address: 89Rg5gxnuGpbKSCsXfmtnEYPubMP6HkKP9WYXNJNCVinVyvKeY5XGeRFJDK7fhNnSs14yXtGxFivNDSzeJaMaPbXVp4RzAy
+* BTC address: bc1q8nsv46auuf8zfreznnp4turhd3weegv87kfxlk
+* Patreon ~coming soon~
