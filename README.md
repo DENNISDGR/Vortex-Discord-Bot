@@ -38,7 +38,7 @@ git clone https://github.com/DENNISDGR/Vortex-Discord-Bot.git
 cd Vortex-Discord-Bot
 ```
 
-3. Fix the code a bit so it works for your server and create a file called .env including the following:
+3. Fix the code a bit so it works for your server and create a file called `.env` including the following:
 
 ``` console
 DISCORD_TOKEN = <The token of the bot that you've created from the Discord Developer Portal>
