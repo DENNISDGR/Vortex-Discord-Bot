@@ -2,7 +2,7 @@
 
 # Who is Vortex?
 Vortex was created by the Horizon team (Mainly me and ghostt) as a side project and a custom addition for our Discord server.
-The server itself is closed at the momment without any plans of reopening, though you can still join and look a bit arround [here](https://discord.gg/3EfBe5q).
+The server itself is closed at the momment without any plans of reopening.
 
 # Features
 **The default set of modules includes but is not limited to:**
@@ -38,10 +38,10 @@ git clone https://github.com/DENNISDGR/Vortex-Discord-Bot.git
 cd Vortex-Discord-Bot
 ```
 
-3. Create a file called .env and include the following:
+3. Fix the code a bit so it works for your server and create a file called .env including the following:
 
 ``` console
-DISCORD_TOKEN = <The token of the bot that you've created from the Discord Developer Prtal>
+DISCORD_TOKEN = <The token of the bot that you've created from the Discord Developer Portal>
 PREFIX = <Your preferrer prefix>
 MONGODB_SRV = <The SRV if you have set up a MongoDB database>
 ```
@@ -57,3 +57,12 @@ npm install
 ``` console
 node main.js
 ```
+
+# Heroku
+
+Additionally you can deploy it to Heroku.
+
+I will probably provide a step by step guide to do this some time in the future including setting up the database, ~don't take my word for it though~. For now [this video](https://www.youtube.com/watch?v=VZUulBMKfoY) should help you set up the basics on heroku. *note: I already have to procfile ready for you.*
+
+# License
+Released under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
